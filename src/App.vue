@@ -8,18 +8,7 @@ import ListaDeTarefas from './components/ListasDeTarefas.vue';
     filtro: 'todas',
     tarefaTemp: '',
     tarefas: [
-      {
-        titulo: 'estudar ES6',
-        finalizada: false
-      },
-      {
-        titulo: 'estudar sass',
-        finalizada: false,
-      },
-      {
-        titulo: 'ir para a academia',
-        finalizada: true,
-      },
+      
     ]
   })
 
